@@ -23,6 +23,11 @@
         return ['fun1_2_2',val1,val2].join('_');
     }
 
+    //1-2-3
+    //没有返回值的方法
+    function fun1_2_3():void{
+    }
+
     //输出函数返回值 
     console.log("1、函数的定义");
     console.log(fun1_1_1('val1', 'val2'));
